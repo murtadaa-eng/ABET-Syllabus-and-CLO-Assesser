@@ -1,0 +1,5 @@
+{
+  "name": "UOM Syllabus & ABET Portal",
+  "description": "An application for university staff to view, edit, and download course syllabus and ABET accreditation data. It uses Gemini to intelligently parse and retrieve course-specific information from text files.",
+  "requestFramePermissions": []
+}
